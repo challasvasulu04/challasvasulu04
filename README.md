@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @Srinivasulu Challa
-I'm Srinivasulu Challa, Senior Data Engineer | Backend Engineer focusing on Python,Golang,Django Rest API and Fast API,Kafka and Docker.
+I'm Srinivasulu Challa, Senior Data Engineer | Python,Databricks, PySpark , Docker , API 
